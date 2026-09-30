@@ -1,0 +1,8 @@
+models/
+movieenv/
+Movies_Recommendation.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
